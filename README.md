@@ -1,7 +1,9 @@
- XXX: A Spelling Correction Dataset for Formal Indonesian Text
+# XXX: A Spelling Correction Dataset for Formal Indonesian Text
 
 
 ## Summary
+
+XXX is dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences which contains at least one typo.
 
 ## Dataset Split
 
@@ -12,13 +14,13 @@ Since this dataset is very small, we do not define any split.
   * Initial dataset
 
 ## Acknowledgments
-* XXX v1.0 was built by M. Nirwan Samsuri, Arlisa and Ika Alfina, as the reseach project for Nirwan's master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
+* XXX v1.0 was built by M. Nirwan Samsuri for his master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
 
 ## References
 
-Please cite the following papers if you use this treebank for your project/publication:
+Please cite the following paper if you use this dataset for your project/publication:
 
-* Mukhlizar Nirwan Samsuri, Arlisa Yualiwati, and Ika Alfina. A Comparison of Distributed, PAM, and Trie Data Structure Dictionaries in Automatic Spelling Correction for Indonesian Formal Text. In the Proceeding of 2022 5th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI) _(Accepted)_. 
+* Mukhlizar Nirwan Samsuri, Arlisa Yuliawati, and Ika Alfina. _A Comparison of Distributed, PAM, and Trie Data Structure Dictionaries in Automatic Spelling Correction for Indonesian Formal Text_. In the Proceeding of 2022 5th International Seminar on Research of Information Technology and Intelligent Systems (ISRITI) _(Accepted)_. 
 
 
 ## Licence
