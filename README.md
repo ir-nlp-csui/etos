@@ -3,7 +3,7 @@
 
 ## Summary
 
-XXX is dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences which contains at least one typo.
+XXX is a dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences with each sentence contains at least one typo.
 
 ## Dataset Split
 
