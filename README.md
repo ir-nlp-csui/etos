@@ -1,9 +1,9 @@
-# XXX: A Spelling Correction Dataset for Formal Indonesian Text
+# ETOS: A Spelling Correction Dataset for Formal Indonesian Text
 
 
 ## Summary
 
-XXX is a dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences with each sentence contains at least one typo.
+ETOS is a dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences with each sentence contains at least one typo.
 
 ## Dataset Split
 
