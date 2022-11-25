@@ -3,7 +3,7 @@
 
 ## Summary
 
-ETOS is a dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences with each sentence contains at least one typo.
+ETOS is a dataset for automatic spelling correction for formal Indonesian text. It consists of 200 sentences with each sentence contains at least one typo. It has 4,323 tokens with 288 of them are non-word errors. 
 
 ## Dataset Split
 
@@ -14,7 +14,7 @@ Since this dataset is very small, we do not define any split.
   * Initial dataset
 
 ## Acknowledgments
-* XXX v1.0 was built by M. Nirwan Samsuri for his master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
+* ETOS v1.0 was built by M. Nirwan Samsuri for his master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
 
 ## References
 
